@@ -4,8 +4,7 @@
  - [ ]  Queue & Playlists
  
 # (Micro)
- - [ ] Find files in subdirectories too?
+ - [X] Find files in subdirectories too?
  - [ ] Could there be a better way to hunt down musicfiles?
  - [ ] Project Structure
  - [ ] Packaging deps for dev? 
- - [ ] WTF is venv?
